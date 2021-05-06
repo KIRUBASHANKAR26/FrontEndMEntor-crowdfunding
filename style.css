@@ -15,6 +15,9 @@ body{
     overflow-x: hidden;
     line-height: 1.7;
 }
+main{
+    overflow-x: hidden;
+}
 header{
     background-image: url(./images/image-hero-mobile.jpg);
     min-height: 47vh;
